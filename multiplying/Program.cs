@@ -12,7 +12,7 @@ namespace multiplying
         {
             for (int i = 1; i <= 9; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine("2 * " + i);
             }
         }
     }
